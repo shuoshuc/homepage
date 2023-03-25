@@ -2,22 +2,64 @@
 layout: homepage
 ---
 
-## About Me
+I am a second year PhD student in the [Computer Science Department](https://www.csd.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am co-advised by [Prof. Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Prof. Srinivasan Seshan](http://www.cs.cmu.edu/~srini/). My research interests include computer networks and systems. I design and build large-scale computers in order to sustain the performance scaling of computing in post Moore's Law era. Most recently, I have been working on reconfigurable data center networks and data center traffic engineering.
 
-I am a Ph.D. student at ...
+I also work closely with [Prof. Alex Snoeren](https://cseweb.ucsd.edu/~snoeren/) (UCSD), [Srikanth Kandula](https://www.microsoft.com/en-us/research/people/srikanth/) (MSR), [Ilias Marinos](https://www.microsoft.com/en-us/research/people/ilmarino/) (MSR), [Sadjad Fouladi](https://sadjad.org/) (MSR).
 
-## Research Interests
+Prior to CMU, I was a technical lead on Google's [Network Infrastructure](https://research.google/teams/network-systems/) team, where I built Google's [Jupiter](https://research.google/pubs/pub51587/) fabric and an SDN controller [Orion](https://research.google/pubs/pub50245/).
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I received an MS in Computer Engineering from [University of Virginia](https://www.virginia.edu/), and a BS in Electrical Engineering from [Wuhan University](https://en.whu.edu.cn/).
 
-## News
+## Publications
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Time-division TCP for reconfigurable data center networks**
+  <br>
+  <u>Shawn Shuoshuo Chen</u>, Weiyang Wang, Christopher Canel, Srinivasan Seshan, Alex C. Snoeren, Peter Steenkiste
+  <br>
+  [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/)
+  <br>
+  [[abs](https://dl.acm.org/doi/10.1145/3544216.3544254)] [[paper](./assets/papers/tdtcp-sigcomm22.pdf)] [[bib](./assets/papers/tdtcp-sigcomm22.txt)]
 
-{% include_relative _includes/publications.md %}
+- **Orion: Google's Software-Defined Networking Control Plane**
+  <br>
+  Andrew D. Ferguson, Steve Gribble, Chi-Yao Hong, Charles Killian, Waqar Mohsin, Henrik Muehe, Joon Ong, Leon Poutievski, Arjun Singh, Lorenzo Vicisano, Richard Alimi, <u>Shawn Shuoshuo Chen</u>, Mike Conley, Subhasree Mandal, Karthik Nagaraj, Kondapa Naidu Bollineni, Amr Sabaa, Shidong Zhang, Min Zhu, and Amin Vahdat
+  <br>
+  [NSDI 2021](https://www.usenix.org/conference/nsdi21)
+  <br>
+  [[abs](https://www.usenix.org/conference/nsdi21/presentation/ferguson)] [[paper](./assets/papers/orion-nsdi21.pdf)] [[bib](./assets/papers/orion-nsdi21.txt)]
 
-{% include_relative _includes/services.md %}
+- **Advances in Reliable File-Stream Multicasting over Multi-Domain Software Defined Networks (SDN)**
+  <br>
+  Yuanlong Tan, <u>Shuoshuo Chen</u>, Steve Emmerson, Yizhe Zhang, Malathi Veeraraghavan
+  <br>
+  [ICCCN 2019](http://www.icccn.org/icccn19/index.html)
+  <br>
+  [[abs](https://ieeexplore.ieee.org/document/8847110)] [[paper](./assets/papers/tan-icccn19.pdf)] [[bib](./assets/papers/tan-icccn19.txt)]
+
+- **A Cross-Layer Multicast-Push Unicast-Pull (MPUP) Architecture for Reliable File-Stream Distribution**
+  <br>
+  <u>Shuoshuo Chen</u>, Xiang Ji, Malathi Veeraraghavan, Steve Emmerson, Joseph Slezak, Steven G. Decker
+  <br>
+  [COMPSAC 2016](https://dblp.org/db/conf/compsac/compsac2016.html)
+  <br>
+  [[abs](https://ieeexplore.ieee.org/document/7552068)] [[paper](./assets/papers/fmtp-compsac2016.pdf)] [[bib](./assets/papers/fmtp-compsac16.txt)]
+
+## Awards and Membership
+
+- NYU Henry M. MacCracken Fellowship \[declined\] (2020)
+- Silver Perfy Award, Google (2019)
+- Academic Excellence Award Nomination, University of Virginia (2016)
+- OpenHW Vivado HLS Contest Runner-up, Xilinx (2014)
+- Outstanding Undergraduate Capstone Project, Wuhan University (2014)
+- ACM Member/ACM@CMU Member
+
+## Service
+
+- Artifact evaluation committee - OSDI/ATC 2022
+- Subreview - NSDI 2023
+- Subreview - NSDI 2022
+
+## Fun Stuff
+
+- I like [scuba diving](./assets/fun/diving.jpg) and [rock](./assets/fun/rock.jpg) [climbing](./assets/fun/climbing.jpg).
+- I built a [4-node FPGA Bitcoin miner](./assets/fun/mining.jpg) which costs more in power than its profit. :)

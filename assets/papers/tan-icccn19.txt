@@ -1,0 +1,9 @@
+@INPROCEEDINGS{8847110,
+  author={Tan, Yuanlong and Chen, Shuoshuo and Emmerson, Steve and Zhang, Yizhe and Veeraraghavan, Malathi},
+  booktitle={2019 28th International Conference on Computer Communication and Networks (ICCCN)}, 
+  title={Advances in Reliable File-Stream Multicasting over Multi-Domain Software Defined Networks (SDN)}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/ICCCN.2019.8847110}}

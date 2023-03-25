@@ -1,0 +1,9 @@
+@INPROCEEDINGS{7552068,
+  author={Chen, Shuoshuo and Ji, Xiang and Veeraraghavan, Malathi and Emmerson, Steve and Slezak, Joseph and Decker, Steven G.},
+  booktitle={2016 IEEE 40th Annual Computer Software and Applications Conference (COMPSAC)}, 
+  title={A Cross-Layer Multicast-Push Unicast-Pull (MPUP) Architecture for Reliable File-Stream Distribution}, 
+  year={2016},
+  volume={1},
+  number={},
+  pages={535-544},
+  doi={10.1109/COMPSAC.2016.28}}
