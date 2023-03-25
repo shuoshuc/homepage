@@ -44,7 +44,7 @@
         {{ site.office }}
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <a href="">{{ site.email }}</a>
         {% endif %}
         
         <br>
@@ -72,6 +72,12 @@
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-twitter"></i>
         </a>
+        {% endif %}
+        
+        {% if site.confddl_link %}            
+          <a href="{{ site.confddl_link }}" target="_blank">
+            <i class="fas fa-hourglass-half"></i>
+          </a>
         {% endif %}
         </div>
         <br>
