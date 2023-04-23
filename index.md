@@ -18,7 +18,7 @@ I received an MS in Computer Engineering from [University of Virginia](https://w
   <br>
   [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/)
   <br>
-  [[abstract](https://dl.acm.org/doi/10.1145/3544216.3544254)] [[paper](./assets/papers/tdtcp-sigcomm22.pdf)] [[bib](./assets/papers/tdtcp-sigcomm22.txt)] [[code](https://github.com/shuoshuc/TDTCP)]
+  [[abstract](https://dl.acm.org/doi/10.1145/3544216.3544254)] [[paper](./assets/papers/tdtcp-sigcomm22.pdf)] [[code](https://github.com/shuoshuc/TDTCP)]
 
 - **Orion: Google's Software-Defined Networking Control Plane**
   <br>
@@ -26,7 +26,7 @@ I received an MS in Computer Engineering from [University of Virginia](https://w
   <br>
   [NSDI 2021](https://www.usenix.org/conference/nsdi21)
   <br>
-  [[abstract](https://www.usenix.org/conference/nsdi21/presentation/ferguson)] [[paper](./assets/papers/orion-nsdi21.pdf)] [[bib](./assets/papers/orion-nsdi21.txt)]
+  [[abstract](https://www.usenix.org/conference/nsdi21/presentation/ferguson)] [[paper](./assets/papers/orion-nsdi21.pdf)]
 
 - **Advances in Reliable File-Stream Multicasting over Multi-Domain Software Defined Networks (SDN)**
   <br>
@@ -34,7 +34,7 @@ I received an MS in Computer Engineering from [University of Virginia](https://w
   <br>
   [ICCCN 2019](http://www.icccn.org/icccn19/index.html)
   <br>
-  [[abstract](https://ieeexplore.ieee.org/document/8847110)] [[paper](./assets/papers/tan-icccn19.pdf)] [[bib](./assets/papers/tan-icccn19.txt)]
+  [[abstract](https://ieeexplore.ieee.org/document/8847110)] [[paper](./assets/papers/tan-icccn19.pdf)]
 
 - **A Cross-Layer Multicast-Push Unicast-Pull (MPUP) Architecture for Reliable File-Stream Distribution**
   <br>
@@ -42,7 +42,7 @@ I received an MS in Computer Engineering from [University of Virginia](https://w
   <br>
   [COMPSAC 2016](https://dblp.org/db/conf/compsac/compsac2016.html)
   <br>
-  [[abstract](https://ieeexplore.ieee.org/document/7552068)] [[paper](./assets/papers/fmtp-compsac2016.pdf)] [[bib](./assets/papers/fmtp-compsac16.txt)]
+  [[abstract](https://ieeexplore.ieee.org/document/7552068)] [[paper](./assets/papers/fmtp-compsac2016.pdf)]
 
 ## Awards and Membership
 
