@@ -55,6 +55,7 @@ I received an MS in Computer Engineering from [University of Virginia](https://w
 
 ## Service
 
+- Artifact evaluation committee - CoNEXT 2023
 - Artifact evaluation committee - OSDI/ATC 2022
 - Subreview - NSDI 2023
 - Subreview - NSDI 2022
