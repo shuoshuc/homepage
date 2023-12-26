@@ -18,7 +18,7 @@ I received an MS in Computer Engineering from [University of Virginia](https://w
   <br>
   [NSDI 2024](https://www.usenix.org/conference/nsdi24)
   <br>
-  [[abstract](https://dl.acm.org/doi/10.1145/3544216.3544254)] [[paper](./assets/papers/tdtcp-sigcomm22.pdf)] [[code](https://github.com/shuoshuc/TDTCP)]
+  [[abstract]()] [[paper]()] [[code]()]
 
 - **Time-division TCP for reconfigurable data center networks**
   <br>
@@ -26,7 +26,7 @@ I received an MS in Computer Engineering from [University of Virginia](https://w
   <br>
   [SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/)
   <br>
-  [[abstract]()] [[paper]()] [[code]()]
+  [[abstract](https://dl.acm.org/doi/10.1145/3544216.3544254)] [[paper](./assets/papers/tdtcp-sigcomm22.pdf)] [[code](https://github.com/shuoshuc/TDTCP)]
 
 - **Orion: Google's Software-Defined Networking Control Plane**
   <br>
