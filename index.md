@@ -8,7 +8,7 @@ I am very fortunate to collaborate with [Prof. Minlan Yu](https://minlanyu.seas.
 
 Prior to CMU, I was a technical lead on Google's [Network Infrastructure](https://research.google/teams/network-systems/) team, where I built Google's [Jupiter](https://research.google/pubs/pub51587/) fabric and its SDN controller [Orion](https://research.google/pubs/pub50245/).
 
-I received an MS in Computer Engineering from [University of Virginia](https://www.virginia.edu/), and a BS in Electrical Engineering from [Wuhan University](https://en.whu.edu.cn/).
+I received my masters in Computer Engineering from [University of Virginia](https://www.virginia.edu/), and a bachelor in Electrical Engineering from [Wuhan University](https://en.whu.edu.cn/).
 
 ## Publications
 
