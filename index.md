@@ -4,11 +4,11 @@ layout: homepage
 
 I am a third year PhD student in the [Computer Science Department](https://www.csd.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am co-advised by [Prof. Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Prof. Srinivasan Seshan](http://www.cs.cmu.edu/~srini/). My research interests include computer networks and systems. I design and build large-scale networked computers to sustain the performance scaling of computing in post Moore's Law era. Most recently, I have been working on reconfigurable data center networks and data center traffic engineering.
 
-I am very fortunate to collaborate with [Prof. Minlan Yu](https://minlanyu.seas.harvard.edu/), [Prof. Manya Ghobadi](https://people.csail.mit.edu/ghobadi/), [Prof. Alex Snoeren](https://cseweb.ucsd.edu/~snoeren/), [Srikanth Kandula](https://www.microsoft.com/en-us/research/people/srikanth/), [Ilias Marinos](https://www.microsoft.com/en-us/research/people/ilmarino/), [Sadjad Fouladi](https://sadjad.org/).
+I am very fortunate to collaborate with [Prof. Minlan Yu](https://minlanyu.seas.harvard.edu/), [Prof. Manya Ghobadi](https://people.csail.mit.edu/ghobadi/), [Prof. Alex C. Snoeren](https://cseweb.ucsd.edu/~snoeren/), [Srikanth Kandula](https://www.microsoft.com/en-us/research/people/srikanth/), [Ilias Marinos](https://www.microsoft.com/en-us/research/people/ilmarino/), [Sadjad Fouladi](https://sadjad.org/).
 
 Prior to CMU, I was a technical lead on Google's [Network Infrastructure](https://research.google/teams/network-systems/) team, where I built Google's [Jupiter](https://research.google/pubs/pub51587/) fabric and its SDN controller [Orion](https://research.google/pubs/pub50245/).
 
-I received my masters in computer engineering from [University of Virginia](https://www.virginia.edu/), and a bachelor in electrical engineering from [Wuhan University](https://en.whu.edu.cn/).
+I received my masters degree in computer engineering from [University of Virginia](https://www.virginia.edu/), and a bachelor in electrical engineering from [Wuhan University](https://en.whu.edu.cn/).
 
 ## Publications
 
