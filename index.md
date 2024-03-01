@@ -18,7 +18,7 @@ I received my masters degree in computer engineering from [University of Virgini
   <br>
   [NSDI 2024](https://www.usenix.org/conference/nsdi24)
   <br>
-  [[abstract](https://www.usenix.org/conference/nsdi24/presentation/chen-shawn)] [[paper]()] [[code](https://shuoshuc.github.io/FabricEval/)]
+  [[abstract](https://www.usenix.org/conference/nsdi24/presentation/chen-shawn)] [[paper](./assets/papers/preciseTE-nsdi24.pdf)] [[code](https://shuoshuc.github.io/FabricEval/)]
 
 - **Time-division TCP for reconfigurable data center networks**
   <br>
