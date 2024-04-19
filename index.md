@@ -26,7 +26,7 @@ I received my masters degree in computer engineering from [University of Virgini
   <br>
   [NSDI 2024 poster](https://www.usenix.org/conference/nsdi24)
   <br>
-  [[poster]()]
+  [[poster](./assets/papers/NSDI24-poster.pdf)]
 
 - **Time-division TCP for reconfigurable data center networks**
   <br>
