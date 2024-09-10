@@ -10,6 +10,14 @@ I received my masters degree in computer engineering from [University of Virgini
 
 ## Publications
 
+- **Balancing SDN Control Plane Availability and Traffic Engineering Efficiency in Data Centers**
+  <br>
+  Brian Chang, Keqiang He, <u>Shawn Shuoshuo Chen</u>, Jiaxin Lin, Mingyang Zhang, Wenfei Wu, Aditya Akella
+  <br>
+  [ICNP 2024](https://icnp24.cs.ucr.edu/)
+  <br>
+  [To appear]
+
 - **Precise Data Center Traffic Engineering with Constrained Hardware Resources**
   <br>
   <u>Shawn Shuoshuo Chen</u>, Keqiang He, Rui Wang, Srinivasan Seshan, Peter Steenkiste
