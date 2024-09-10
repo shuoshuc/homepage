@@ -22,7 +22,7 @@ I received my masters degree in computer engineering from [University of Virgini
   <br>
   <u>Shawn Shuoshuo Chen</u>, Weiyang Wang, Manya Ghobadi, Srinivasan Seshan, Peter Steenkiste
   <br>
-  [NSDI 2024 poster]([https://www.usenix.org/conference/nsdi24](https://www.usenix.org/conference/nsdi24/poster-session))
+  [NSDI 2024 poster](https://www.usenix.org/conference/nsdi24/poster-session)
   <br>
   [[poster](./assets/papers/NSDI24-poster.pdf)]
 
