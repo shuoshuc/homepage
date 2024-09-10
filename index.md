@@ -2,9 +2,7 @@
 layout: homepage
 ---
 
-I am a third year PhD student in the [Computer Science Department](https://www.csd.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am co-advised by [Prof. Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Prof. Srinivasan Seshan](http://www.cs.cmu.edu/~srini/). My research interests include computer networks and systems. I design and build large-scale networked computers to sustain the performance scaling of computing in post Moore's Law era. Most recently, I have been working on reconfigurable data center networks, optical networks and ML systems.
-
-I am very fortunate to collaborate with [Prof. Minlan Yu](https://minlanyu.seas.harvard.edu/), [Prof. Manya Ghobadi](https://people.csail.mit.edu/ghobadi/), [Prof. Alex C. Snoeren](https://cseweb.ucsd.edu/~snoeren/), [Srikanth Kandula](https://www.microsoft.com/en-us/research/people/srikanth/), [Ilias Marinos](https://www.microsoft.com/en-us/research/people/ilmarino/), [Sadjad Fouladi](https://sadjad.org/).
+I am a 4th year PhD student in the [Computer Science Department](https://www.csd.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am co-advised by [Prof. Peter Steenkiste](https://www.cs.cmu.edu/~prs/) and [Prof. Srinivasan Seshan](http://www.cs.cmu.edu/~srini/). My research interests include computer networks and systems. I design and build large-scale networked computers to sustain the performance scaling of computing in post Moore's Law era. Most recently, I have been working on reconfigurable data center networks, optical networks and ML systems.
 
 Prior to CMU, I was a technical lead on Google's [Network Infrastructure](https://research.google/teams/network-systems/) team, where I built Google's [Jupiter](https://research.google/pubs/pub51587/) fabric and its SDN controller [Orion](https://research.google/pubs/pub50245/).
 
@@ -60,6 +58,20 @@ I received my masters degree in computer engineering from [University of Virgini
   <br>
   [[abstract](https://ieeexplore.ieee.org/document/7552068)] [[paper](./assets/papers/fmtp-compsac2016.pdf)]
 
+## Collaborators
+
+I am very fortunate to work with many great people:
+- [Michael Papamichael](https://www.microsoft.com/en-us/research/people/papamix/)
+- [David Sidler](https://www.linkedin.com/in/david-sidler/)
+- [Daniel Alves](https://scholar.google.com/citations?user=VZv0o1wAAAAJ&hl=en)
+- [Maximilian Heer](https://www.linkedin.com/in/maximilian-heer/)
+- [Minlan Yu](https://minlanyu.seas.harvard.edu/)
+- [Manya Ghobadi](https://people.csail.mit.edu/ghobadi/)
+- [Alex C. Snoeren](https://cseweb.ucsd.edu/~snoeren/)
+- [Srikanth Kandula](https://www.microsoft.com/en-us/research/people/srikanth/)
+- [Ilias Marinos](https://www.microsoft.com/en-us/research/people/ilmarino/)
+- [Sadjad Fouladi](https://sadjad.org/)
+
 ## Awards and Membership
 
 - NYU Henry M. MacCracken Fellowship \[declined\] (2020)
@@ -73,7 +85,7 @@ I received my masters degree in computer engineering from [University of Virgini
 
 - Review - IEEE/ACM Transactions on Networking, IEEE GLOBECOM'24
 - Subreview - HotNets'23, NSDI'23, NSDI'22
-- Artifact evaluation committee - SIGCOMM'23, CoNEXT'23, OSDI/ATC'22
+- Artifact evaluation committee - SIGCOMM'24, SIGCOMM'23, CoNEXT'23, OSDI/ATC'22
 
 ## Fun Stuff
 
