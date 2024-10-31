@@ -97,5 +97,5 @@ I am very fortunate to work with many great people:
 
 ## Fun Stuff
 
-- I like [scuba diving](./assets/fun/diving.jpg) and [rock](./assets/fun/rock.jpg) [climbing](./assets/fun/climbing.jpg).
+- I like [scuba diving](./assets/fun/diving.jpg) and [rock climbing](./assets/fun/climbing.jpg).
 - I built a [4-node FPGA Bitcoin miner](./assets/fun/mining.jpg) which costs more in power than its profit. :)
