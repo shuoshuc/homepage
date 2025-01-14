@@ -72,7 +72,6 @@ I am very fortunate to work with many great people:
 - [Michael Papamichael](https://www.microsoft.com/en-us/research/people/papamix/)
 - [David Sidler](https://www.linkedin.com/in/david-sidler/)
 - [Daniel Alves](https://scholar.google.com/citations?user=VZv0o1wAAAAJ&hl=en)
-- [Maximilian Heer](https://www.linkedin.com/in/maximilian-heer/)
 - [Minlan Yu](https://minlanyu.seas.harvard.edu/)
 - [Manya Ghobadi](https://people.csail.mit.edu/ghobadi/)
 - [Alex C. Snoeren](https://cseweb.ucsd.edu/~snoeren/)
