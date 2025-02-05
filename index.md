@@ -16,7 +16,7 @@ I received my masters degree in computer engineering from [University of Virgini
   <br>
   [ICNP 2024](https://icnp24.cs.ucr.edu/)
   <br>
-  [abstract] [[paper](./assets/papers/virtual-slicing-icnp24.pdf)]
+  [[abstract](https://ieeexplore.ieee.org/document/10858573)] [[paper](./assets/papers/virtual-slicing-icnp24.pdf)]
 
 - **Precise Data Center Traffic Engineering with Constrained Hardware Resources**
   <br>
